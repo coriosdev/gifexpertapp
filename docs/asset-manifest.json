@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://coriosdev.github.io/gifexpertapp/static/css/main.832776f2.chunk.css",
+    "main.js": "https://coriosdev.github.io/gifexpertapp/static/js/main.1337e253.chunk.js",
+    "main.js.map": "https://coriosdev.github.io/gifexpertapp/static/js/main.1337e253.chunk.js.map",
+    "runtime-main.js": "https://coriosdev.github.io/gifexpertapp/static/js/runtime-main.d7190e1b.js",
+    "runtime-main.js.map": "https://coriosdev.github.io/gifexpertapp/static/js/runtime-main.d7190e1b.js.map",
+    "static/js/2.637c77a8.chunk.js": "https://coriosdev.github.io/gifexpertapp/static/js/2.637c77a8.chunk.js",
+    "static/js/2.637c77a8.chunk.js.map": "https://coriosdev.github.io/gifexpertapp/static/js/2.637c77a8.chunk.js.map",
+    "index.html": "https://coriosdev.github.io/gifexpertapp/index.html",
+    "precache-manifest.bba87da6988367d266c52825052f0c39.js": "https://coriosdev.github.io/gifexpertapp/precache-manifest.bba87da6988367d266c52825052f0c39.js",
+    "service-worker.js": "https://coriosdev.github.io/gifexpertapp/service-worker.js",
+    "static/css/main.832776f2.chunk.css.map": "https://coriosdev.github.io/gifexpertapp/static/css/main.832776f2.chunk.css.map",
+    "static/js/2.637c77a8.chunk.js.LICENSE.txt": "https://coriosdev.github.io/gifexpertapp/static/js/2.637c77a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7190e1b.js",
+    "static/js/2.637c77a8.chunk.js",
+    "static/css/main.832776f2.chunk.css",
+    "static/js/main.1337e253.chunk.js"
+  ]
+}
